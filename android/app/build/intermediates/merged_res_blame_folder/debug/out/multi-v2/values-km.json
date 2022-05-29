@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jabir/MyTreeView/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
+            "outputFile": "/Users/jabir/Desktop/MyTreeView/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml",
             "map": [
                 {
                     "source": "/Users/jabir/.gradle/caches/transforms-3/2792f61c1554ccab947d5c6fccbfe452/transformed/core-1.5.0/res/values-km/values-km.xml",
