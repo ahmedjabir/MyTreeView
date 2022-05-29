@@ -1,0 +1,361 @@
+{    
+  "products": [      
+    {
+      "id":11,
+      "title": "Phones",
+      "subTitle": "200 iPhones, and 300+ other phones",
+      "type":"devices",
+      "brands":[
+        {
+          "id":21,
+          "title": "Apple",
+          "subTitle": "200+ phones",          
+          "models":[
+            {
+              "id":211,
+              "title": "iPhone 6",
+              "subTitle": "200 phones",
+              "variants":[                  
+                {
+                  "id":2111,
+                  "title": "64 GB",
+                  "subTitle": "100+ devices"
+                },
+                {
+                  "id":2112,
+                  "title": "32 GB",
+                  "subTitle": "200+ devices"
+                },
+                {
+                  "id":2113,
+                  "title": "128 GB",
+                  "subTitle": "500+ devices"
+                }
+              ]
+            },
+            {
+              "id":212,
+              "title": "iPhone 7",
+              "subTitle": "200 phones",
+              "variants":[                                
+                {
+                  "id":2121,
+                  "title": "128 GB",
+                  "subTitle": "100+ devices"
+                },
+                {
+                  "id":2122,
+                  "title": "512 GB",
+                  "subTitle": "200+ devices"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":22,
+          "title": "Samsung",
+          "subTitle": "500+ phones",          
+          "models":[
+            {
+              "id":221,
+              "title": "Samsung Galaxy A1",
+              "subTitle": "200 phones",
+              "variants":[                      
+                {
+                  "id":2211,
+                  "title": "256 GB",
+                  "subTitle": "100+ devices"
+                  },
+                  {
+                    "id":2212,
+                    "title": "512 GB",
+                    "subTitle": "200+ devices"
+                  }              
+                ]            
+              },              
+              {
+                "id":222,
+                "title": "Samsung Note 5",
+                "subTitle": "300 phones",
+                "variants":[                    
+                  {
+                    "id":2221,
+                    "title": "128 GB",
+                    "subTitle": "100+ devices"
+                  },
+                  {
+                    "id":2222,
+                    "title": "512 GB",
+                    "subTitle": "100+ devices"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id":23,
+            "title": "Huawei",
+            "subTitle": "100+ phones",
+            "models":[              
+              {
+                "id":231,
+                "title": "Huawei Pro Mate 40",
+                "subTitle": "100 phones",
+                "variants":[                      
+                  {
+                    "id":2311,
+                    "title": "512 GB",
+                    "subTitle": "100+ devices"
+                  },
+                  {
+                    "id":2312,
+                    "title": "128 GB",
+                    "subTitle": "200+ devices"
+                  }
+                ]
+              }              
+            ]
+          }
+        ]
+      },
+      {
+        "id":12,
+        "title": "Computers",
+        "subTitle": "5 HP, and 2+ Dell computers",
+        "type":"computers",
+        "brands":[
+          {
+            "id": 121,
+            "title": "HP",
+            "subTitle": "5+ computers",
+            "models":[
+              {
+                "id":1211,
+                "title":"13 Inch",
+                "subTitle": "5 computers",
+                "variants":[                      
+                  {
+                    "id":12111,
+                    "title": "16 GB",
+                    "subTitle": "1 computer"
+                  },
+                  {
+                    "id":12112,
+                    "title": "32 GB",
+                    "subTitle": "1 computer"
+                  }
+                ]
+              },
+              {
+                "id":1212,
+                "title":"15 Inch",
+                "subTitle": "2 computers",
+                "variants":[                      
+                  {
+                    "id":12121,
+                    "title": "16 GB",
+                    "subTitle": "1 computer"
+                  },
+                  {
+                    "id":12122,
+                    "title": "32 GB",
+                    "subTitle": "1 computer"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 122,
+            "title": "Dell",
+            "subTitle": "7+ computers",
+            "models":[
+              {
+                "id":1221,
+                "title":"13 Inch",
+                "subTitle": "5 computers",
+                "variants":[                      
+                  {
+                    "id":12211,
+                    "title": "32 GB",
+                    "subTitle": "1 computer"
+                  },
+                  {
+                    "id":12212,
+                    "title": "8 GB",
+                    "subTitle": "1 computer"
+                  }
+                ]
+              },
+              {
+                "id":1222,
+                "title":"15 Inch",
+                "subTitle": "2 computers",
+                "variants":[                      
+                  {
+                    "id":12221,
+                    "title": "8 GB",
+                    "subTitle": "1 computer"
+                  },
+                  {
+                    "id":12222,
+                    "title": "16 GB",
+                    "subTitle": "1 computer"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id":13,
+        "title": "Watches",
+        "subTitle": "2 Omega, and 2+ Rado watches",
+        "type":"watches",
+        "brands":[
+          {
+            "id": 131,
+            "title": "Omega",
+            "subTitle": "7+ watches",
+            "models":[
+              {
+                "id":1311,
+                "title":"2021 Brands",
+                "subTitle": "5 watches",
+                "variants":[            
+                  {
+                    "id":13111,
+                    "title": "Golden",
+                    "subTitle": "1 watch"
+                  },
+                  {
+                    "id":13112,
+                    "title": "Black",
+                    "subTitle": "1 watch"
+                  }
+                ]
+              },
+              {
+                "id":1312,
+                "title":"2020 Brands",
+                "subTitle": "2 watches",
+                "variants":[                      
+                  {
+                    "id":13121,
+                    "title": "Black",
+                    "subTitle": "1 watch"
+                  },
+                  {
+                    "id":13122,
+                    "title": "White",
+                    "subTitle": "1 watch"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 132,
+            "title": "Rado",
+            "subTitle": "4+ watches",
+            "models":[
+              {
+                "id":1321,
+                "title":"2021 Brands",
+                "subTitle": "2 watches",
+                "variants":[                      
+                  {
+                    "id":13211,
+                    "title": "Golden and White",
+                    "subTitle": "1 watch"
+                  },
+                  {
+                    "id":13212,
+                    "title": "White",
+                    "subTitle": "1 watch"
+                  }
+                ]
+              },
+              {
+                "id":1322,
+                "title":"2020 Brands",
+                "subTitle": "2 watches",
+                "variants":[                      
+                  {
+                    "id":13221,
+                    "title": "Silver",
+                    "subTitle": "1 watch"
+                  },
+                  {
+                    "id":13222,
+                    "title": "Golden",
+                    "subTitle": "1 watch"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id":14,
+        "title": "TVs",
+        "type":"TVs",
+        "subTitle": "3 LG, and 3+ Samsung TVs",
+        "brands":[            
+          {
+            "id":141,
+            "title": "LG",
+            "subTitle": "5+ TVs",
+            "models":[                    
+              {
+                "id":1411,
+                "title": "55 Inch HD"
+              },
+              {
+                "id":1412,
+                "title": "75 Inch OLED"
+              },
+              {
+                "id":1413,
+                "title": "32 Inch"
+              }
+            ]            
+          },          
+          {
+            
+            "id":142,          
+            "title": "Samsung",
+            "subTitle": "3+ Samsung TVs",
+            "models":[
+              {
+                "id":1421,
+                 "title": "75\" OLED"
+              },
+              {
+                "id":1422,
+                "title": "43 Inch SmartTV"
+              },
+              {
+                "id":1423,
+                "title": "80 Inch OLED"
+              }
+            ]
+          },
+          {
+            "id":143,
+            "title": "SONY",
+            "subTitle": "1 SONY TV",
+            "models":[                    
+              {
+                "id":1431,
+                "title": "75 Inch SmartTV"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
