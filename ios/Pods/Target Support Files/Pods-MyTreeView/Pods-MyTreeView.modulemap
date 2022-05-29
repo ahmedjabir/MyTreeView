@@ -1,0 +1,6 @@
+module Pods_MyTreeView {
+  umbrella header "Pods-MyTreeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
